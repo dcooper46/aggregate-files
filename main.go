@@ -1,9 +1,7 @@
 // Command aggregate-panels crawls a directory containing
 // multiple panel files of the same type and combines them
-// into a single source representing the tiem span covered
+// into a single source representing the time span covered
 // by all of the individual files.
-// This is intended to standardize the data cadence across
-// panel/survey vendors; i.e. daily panels vs. weekly panels
 
 package main
 
